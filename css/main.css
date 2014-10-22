@@ -23,6 +23,7 @@ nav {
     background-color: #6ABB2F;
     border-radius: 6px;
     padding: 0.5em;
+    transition: all 1s;
 }
 
 nav ul {
